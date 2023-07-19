@@ -1,0 +1,33 @@
+# .gitignore
+
+# Python artifacts
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+*.egg-info/
+
+# Build and distribution directories
+build/
+dist/
+*.egg
+
+# IDE files
+.idea/
+.vscode/
+
+# Output and log files
+*.log
+*.mst
+*.sol
+
+# Temporary and script files
+*.lp
+*.sh
+*.py
+
+# Any other file or folder that you want to ignore
+asdf
+
